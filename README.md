@@ -19,6 +19,7 @@ wazuh-custom-decoders/
 ├── Huawei1_Decoder.xml
 ├── Huawei2_Decoder.xml
 ├── sangfor-fw.xml
+├── Trend-Micro-Email-Security-Decoder.xml
 └── README.md
 ```
 
@@ -39,6 +40,12 @@ Additional Huawei firewall decoder designed to handle specific Huawei log format
 #### `sangfor-fw.xml`
 
 Custom Wazuh decoder for parsing Sangfor firewall logs and identifying relevant security events and fields.
+
+### Trend Micro Email Security Decoder
+
+#### `Trend Micro Email Security Decoder`
+
+Custom Wazuh decoder for parsing Trend Micro Email Security logs and identifying relevant security events and fields.
 
 ## Installation
 
