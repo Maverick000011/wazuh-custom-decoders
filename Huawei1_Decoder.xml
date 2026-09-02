@@ -1,5 +1,3 @@
-<!--Jul 28 2025 08:29:44 DR-Trad-FW-Act %%01POLICY/6/POLICYPERMIT(l):vsys=public, protocol=6, source-ip=172.30.22.21, source-port=34674, destination-ip=172.30.214.117, destination-port=7019, time=Jul 28 2025 13:29:44, source-zone=untrust, destination-zone=trust, application-name=, rule-name=TGW/MDGW-DR-TCS.-->
-
 <decoder name="Huawei_Device">
 <prematch>%%</prematch>
 </decoder>
