@@ -10,6 +10,7 @@ Currently, this repository includes custom decoders for:
 
 * **Huawei Firewall**
 * **Sangfor Firewall**
+* **Trend Micro Email Security Decoder**
 
 ## Repository Structure
 
@@ -61,6 +62,7 @@ For example:
 sudo cp Huawei1_Decoder.xml /var/ossec/etc/decoders/
 sudo cp Huawei2_Decoder.xml /var/ossec/etc/decoders/
 sudo cp sangfor-fw.xml /var/ossec/etc/decoders/
+sudo cp Trend-Micro-Email-Security-Decoder.xml /var/ossec/etc/decoders/
 ```
 
 After adding or modifying the decoders, restart the Wazuh Manager:
