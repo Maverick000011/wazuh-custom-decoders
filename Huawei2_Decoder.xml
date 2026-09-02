@@ -1,5 +1,3 @@
-<!-- Jul 23 2025 13:37:52+05:00 Trading-FW-Primary %%01USERS/4/VIPERRKICK(l)[0]:Slot=11;id=USG6635E time="2025-07-23 13:37:51" fw=Trading-FW-Primary pri=4 vsys=public vpn=psx_vpn user="mem16225" src=XX.XX.XX.XX dst=0.0.0.0 duration=2s rcvpkt=0pkt(s) rcvbyte=0byte(s) sentpkt=0pkt(s) sentbyte=0byte(s) type=vpn service=5 msg="User mem16225 was forcibly logged out for the user logged in through client software but failed to obtain the virtual IP address." -->
-
 <decoder name="Huawei_Device">
 <prematch>%%</prematch>
 </decoder>
